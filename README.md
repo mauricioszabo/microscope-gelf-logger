@@ -1,5 +1,6 @@
 # Microscope's GELF logger
 [![Build Status](https://travis-ci.org/acessocard/microscope-gelf-logger.svg?branch=master)](https://travis-ci.org/acessocard/microscope-gelf-logger)
+[![Clojars Project](https://img.shields.io/clojars/v/microscope/gelf-logger.svg)](https://clojars.org/microscope/gelf-logger)
 
 A simple logger for GELF format
 
